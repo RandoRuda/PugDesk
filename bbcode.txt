@@ -1,0 +1,207 @@
+With nothing but their wits, will, and fists, pugilists lay it all on the table every time they’re in for a scrap. No strangers to adversity, pugilists can dish it out, take a licking and still keep coming back for more. A pugilist’s unbreakable spirit and talent for fisticuffs don’t come from rigorous training or high minded philosophies but are the hard won trophies of never backing down from a fight no matter the odds.
+
+All pugilists belong to a Fight Club, an informal fraternity of brawlers with similar style, that shapes the way they fight. Fight Clubs included in the release version  are: Arena Royale, Bloodhound Bruisers, Piss & Vinegar, the Squared Circle, and the Sweet Science. Whether you’re interested in playing an adventuring luchador, a boxer fighting the  good fight, or a hard-nosed detective with a penchant for pugilism,  these Fight Clubs have you covered!
+
+Check It Out Below
+[youtube]idpXeGI7Kbk[/youtube]
+ 
+This Class works best with BG3 Mod Manager, Vortex has some problems. 
+
+Load Order
+To my knowledge this should be fairly compatible, anything that alters all class progressions should be loaded after this(So this gets altered by that one) 
+
+This class is based on Benjamin Huffman's of the same name on the DM's guild [url=http://https://www.dmsguild.com/product/184921/The-Pugilist-Class]here
+
+[/url]Benjamin also endorses this mod- as evidenced by [url=https://twitter.com/sterlingvermin/status/1693410511373979899]this[/url]  and [url=https://twitter.com/sterlingvermin/status/1744735789320212553]and this[/url] and also [url=https://www.sterlingvermin.com/blog/baldurs-gate-3-pugilist-mod]this[/url], he has been very open with my adaptation, if you enjoy this mod, please support him also. 
+
+You can also support me [url=https://ko-fi.com/greenninja757]here[/url] - this is just out of the kindness of your [s]pocket﻿ [/s] heart, my mods will never be behind a pay gate. 
+
+[line]
+[size=6]Class Description[/size]
+Pugilists are self-taught warriors that have created their own unorthodox martial art; rather than specializing in long storied techniques or mystical energy, they focus on being able to take and deliver any number of blows needed to win a fight. 
+
+[size=6]Class Features[/size]
+
+[b]Hit Die:[/b] 1d8 (8+ Con Mod First Level, 5 + Con Mod every level after)
+﻿[b]Spellcasting Mod:[/b] Constitution
+   
+[size=3][u]Proficiencies[/u][/size]
+[b]Armor:[/b] Light armor 
+[b]Weapons:[/b] Simple weapons, Flails, Morningstars, Tridents, Warhammers
+[b]Saving Throws:[/b] Strength, Constitution 
+[b]Skills:[/b] Choose two - Acrobatics, Athletics, Deception, Intimidation, Perception, Sleight of Hand, and Stealth 
+
+[size=5]Level 1[/size]
+
+Fisticuffs- Your years of fighting have given you mastery over combat styles that use unarmed strikes and pugilist weapons, which are Melee Weapons you are proficient with, and without the two-handed or heavy property.
+
+You gain the following benefits while you are unarmed or using only pugilist weapons and wearing light or no armor, and not using a shield.
+
+-Fisticuffs Die: You can roll a d6 in place of the normal damage of your unarmed strike or pugilist weapon. This die changes as you gain pugilist levels.
+-Bonus Unarmed Strike
+After attacking with a Pugilist Weapon or Unarmed strike, you may use a bonus action to make another unarmed attack.
+Iron Chin: 
+While not wearing armor your Armor Class is equal to 12 + your Constitution Modifier.
+
+
+Moxie: Your experience laying the beatdown on others has given you a Moxie you can channel in the midst of battle. Moxie is used to fuel various Pugilist abilities .
+You regain all expended Moxie when you finish a short or long rest.  3 Moxie Starting 
+
+Brace Up: Costs- Bonus Action, 1 Moxie. You brace for attacks. You gain a number of temporary hit points equal to a roll of your fisticuffs die + your pugilist level + your Constitution modifier. You lose any remaining temporary hit points gained in this way after 1 minute(10 rounds of Combat). 
+
+The Old One-Two: Costs- Bonus Action, 1 Moxie. 
+Make 2 unarmed attacks as a bonus action.
+
+Bob and Weave: Costs-2 Moxie Free Action . You prepare yourself to dodge  upcoming attacks. Until the start of your next turn all melee attacks  against you have Disadvantage. 
+
+[size=5]Level 2[/size]
+Cutman: A good pugilist knows you can’t always down a potion with a dislocated 
+jaw, sometimes injuries need a “homecooked” solution. You gain proficiency with the Medicine skill. 
+
+[size=5]Level 3[/size]]
+Gain 1 Moxie. (Total-4)
+
+Bloodied but Unbowed: When you take damage that reduces you to half your maximum  hit points or less, you may gain temporary hit points equal to three times your pugilist level and regain all your expended Moxie. Once you  use this feature, you can’t use it again until you finish a short or long rest. 
+
+Fight Club (Subclass):
+Despite the name, fight clubs are not formal  fraternities or sororities, but collections of pugilists who, by  training or happenstance , share a similar style.
+
+[size=4]Arena Royale:[/size]
+ Pugilists in the Arena Royale fight club earn their keep as  equal parts performer and gladiator. Whether performing in a show or fighting it out after, pugilists in the Arena Royale care as much about the theatrics of a fight as they do its outcome.
+
+INTRODUCING….  Your bombastic personality really impacts people, you learn the Thaumaturgy cantrip. 
+
+Persona Libre: You always gotta be ready to jump into the ring, whether or not that’s literal or just a quick change into your fight outfit, depends on the situation. You gain the ability to cast Disguise Self and Enhance Leap once per long rest. 
+
+[size=4]Bloodhound Bruisers:[/size]
+Pugilists in the Bloodhound Bruisers fight club are notorious for looking for trouble and finding it every time. Members of this fight club are highly observant of character traits and physical evidence, allowing them to easily read the battlefield and their opponents.
+
+Detective Work: You gain Proficiency with one of the following skills of your choice: Insight, Investigation, or Perception.
+
+Ever Vigilant: You have a static +3 to initiative, along with advantage on attack rolls against creatures that haven’t acted yet in combat. 
+
+[size=4]Piss And Vinegar:[/size]
+Pugilists in the Piss & Vinegar fight club revel in their reputations as heels. Widely despised for their obscene curses anddirty tricks, these pugilists take pride in their ability to provoke, and fight to win at all costs.
+
+Trash Talk: You’ve turned spewing insults into an art, you learn an enhanced version of the Vicious Mockery cantrip, allowing you to cast it with a Bonus action. In addition, you can cast Bane at first level once per Long Rest. 
+
+The Salty Runback: Sometimes, you just need to rub someone’s nose into it that you beat them, even beyond the grave. You may cast Speak with Dead, once per long rest.
+          
+[size=4]The Squared Circle:[/size]
+Experienced in the art of hitting the floor, pugilists in The Squared Circle fight club know that being knocked down can make or break a fight. Having mastered ways to turn the tables, these pugilistsmake sure their opponents will be the ones looking up at the end. 
+
+Giant Swing: Cost- Action, 1 Moxie. Not to be confused with the similar named “The Giant’s Swing”- but still just as effective. Pick up an item or enemy and throw it at a target, knocking them prone and dealing additional damage.
+
+Meat Shield: After shoving an enemy, you gain a +2 to your armor class until the start of your next turn. 
+           
+[size=4]The Sweet Science:[/size]
+Pugilists who practice the Sweet Science hit hard, fast, and often. From Upper Class entertainment bouts, to back alley brawls where their next breath depends on a knockout, these Pugilists are more than willing to teach what their fists can do.
+
+Cross Counter: You can block the brunt of an attack and launch one of your own in the same fluid motion. When you take damage from a melee weapon attack, you can use your reaction to reduce the damage by 1d10 + your Strength modifier + your pugilist level. If you reduce the damage to 0, you can spend a moxie to make an unarmed strike or pugilist weapon attack against a creature within range as part of the same reaction.
+
+Sting Like A Bee- Deliver a brutal uppercut, dealing Piercing damage, and making the target bleed.
+
+[size=5]Level 4[/size]
+ASI/Feat
+Dig Deep: Costs-Bonus Action, Once Per Long Rest. You discover a strength inside you that can’t be broken. As a bonus action, you gain resistance  to bludgeoning, piercing, and slashing damage for 1 minute(10 rounds of Combat)
+
+[size=5]Level 5[/size]
+   Gain 1 moxie. Total(5)
+   Fisticuffs Die Increased from 1d6 to 1d8. 
+   Extra Attack: You can attack twice, instead of once, whenever you take the Attack action on your turn. 
+   Haymakers- When this feature is toggled on, you swing wild haymakers, you have 
+disadvantage on attack rolls however you deal the maximum result of ﻿your weapon’s damage die instead of rolling when using Unarmed Attacks or Pugilist Weapons.
+Level 6 Features
+   Moxie-Fueled Fists: Your unarmed strikes count as magical for the purpose of 
+overcoming resistance and immunity to non-magical attacks and damage. 
+
+   Fight Club Features
+      Arena Royale: FROM THE TOP ROPES- Costs- Action, 2 Moxie. You make a leaping 
+jump attack on a target, on a hit the enemy takes your unarmed attack damage, along with being knocked prone. Targets nearby must make a 
+strength saving throw or also take this damage. If your attacks misses, the target is not knocked prone, but must still succeed on the saving throw to not take damage. 
+
+Bloodhound Bruisers: Discombobulate- Costs- Action, 1 Moxie. You know how to hit 
+someone in just the right way to make their brain stop for a second. You make an attack roll on a target, on a hit they are dazed for 3 turns.
+
+Piss And Vinegar: Dirty Tricks- You have a few tricks up your sleeve to even the odds when the going gets rough.
+         Low Blow- Distract a foe with a strange dance and song, then quickly hit 
+them below the belt and sweep their feet; potentially knocking them prone. You regain 1 Moxie.
+
+         Pocket Sand- Costs- Bonus Action. Once Per Short Rest. This technique created 
+by the Legendary Pugilist Rusty Shackleford, has saved countless members of Piss and Vinegar, ensuring many a clean exit. You throw sand
+ in a cone, all targets in the area must succeed on a Constitution saving throw, or take your unarmed damage and be blinded for 3 turns. 
+On a save, they take half damage but are not blinded. You regain 1 Moxie regardless of the outcome of this attack. 
+
+
+      Squared Circle: Muscle Mass- Repeatably throwing and shoving things on a daily 
+basis has really done wonders for conditioning. You have advantage on Ability Checks and Saving Throws using Athletics. 
+
+      Sweet Science: Bare Knuckle Boxer:- With all your hands have been through, 
+they should be stumps, somehow everything just made them stronger.
+            Open Up- Some people think they can take anything, you know you can prove em wrong. Your unarmed attacks ignore Bludgeoning Resistance.
+            Knock Knock- So many things that you can't use as a weapon just get in the 
+way of a fight, lucky for you they're real easy to hit. Your unarmed attacks are automatically Critical Hits on objects.
+[size=5]Level 7 Features[/size]
+   Gain 1 Moxie (Total-6)
+   Fancy Footwork: You gain proficiency in Dexterity saving throws. 
+   Shake It Off: If you are charmed or frightened, at the start of your turn, you automatically shake off the effect.
+
+[size=5]Level 8 Features[/size]
+   ASI/Feat
+
+[size=5]Level 9 Features[/size]
+   Gain 1 Moxie (Total-7)
+   Down but Not Out: When Bloodied But Unbowed is triggered, you may use 
+feature along with it. If you do, your proficiency bonus is added to 
+your damage for the next minute(10 Rounds).Once you use this feature, you can’t use it again until you finish a long rest. 
+
+[size=5]Level 10 Features[/size]
+   Street Smarts: Somehow, after countless time busting heads against the 
+streets, you've connected both meanings of "Smarts". You have Resistance
+ to Psychic damage. 
+   School of Hard Knocks: You've seen and learned how to do some terrible stuff 
+over the years. Those things don't bother you anymore. You are Immune to
+ 
+being Stunned. 
+
+[size=5]Level 11[/size]
+   Gain 1 Moxie (Total-8)
+   Fisticuffs Die Increase 1d8 to 1d10
+   Fight Club Feature
+
+      Arena Royale: Roar of the Crowd- As much as their cheers keep you going, you 
+know you need to return the favor. During combat- allies within 10 feet of you gain temporary HP equal to your Constitution modifier at the start of your turn. 
+
+      Bloodhound Bruisers: Scrap Like a Sleuth- Costs- Bonus Action, 2 Moxie. You hone 
+in on the idiosyncrasies and bad habits of an enemy you can see within 30 feet. They must succeed on a Wisdom saving throw. On a failure, you 
+have advantage on weapon attacks against the target and the target has disadvantage to hit you. These effects continue for 1 minute(10 rounds). 
+
+      Piss And Vinegar: Heel Turn- You can always turn good... But its more fun 
+and makes a better story when someone goes bad. You may cast Dominate Person and Dominate Beast once per long rest. 
+
+      Squared Circle: Heavyweight- You’re going nowhere. You’re here for playtime, 
+whether your enemies like it or not. You cannot be pushed against your will, and you have Advantage on saving throws against being Restrained.
+
+      Sweet Science: Punch Drunk- Your unarmed attacks and Pugilist Weapons to send your target  Reeling for 1 turn.
+
+[line]
+
+[size=4]Thanks[/size]
+[list]
+[*]Benjamin Huffman-For creating this Class, and being kind enough to allow me to share it
+[*]Laughing Leader, Norbyte, ShinyHobo- Modding Tools
+[*]NellsRello- For helping with skill selectors. 
+[*]Doctor Beers- For the groundwork of learning how to use Script Extender
+[*]Kryie- For saying "Hey dummy you don't need to create a custom Pugilist Weapon, they're literally the same as Monk Weapons, just use MonkWeaponOverride, with your level map and it'll work", except in a nice way. 
+[*]Lykon- For his AI generators(Yeah I know theres always some arguments when AIs involved, Commissioning Artists is a pretty penny, and I'm broke) 
+[*]VivaSortiara- For explaining the basics of how spell animations work, allowing for spells to now have custom animations. 
+[*]GY Cicada- For the class template
+[*]ImmortalRD- Mutlieffects Template, VFX tutorials and Troubleshooting 
+[*]Shivero- VFX Color Changer
+[*]Kaz(Suhra_), Asherzan, Mister Okami- Playtesting
+[*]Focus- Getting Monk animations to work outside their class
+[*]YoBoiKevo
+[*]Nitreaux
+[*]Anyone else I might have forgot about
+[/list]
+Support those people ^ and [url=https://ko-fi.com/greenninja757]me[/url]
